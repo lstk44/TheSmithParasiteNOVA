@@ -9,4 +9,4 @@ The Smith Parasite - An Unknown Parasitic Disease
 | Feature Selection     | 28.10.2022  |
 | Model Selection       | 11.11.2022  |
 | Hyperparameter Tuning | 11.11.2022  |
-| <span style="color:orange">**Finishing Report**</span>| 30.11.2022  |
+| <font color='orange'>**Finishing Report**</font>| 30.11.2022  |
