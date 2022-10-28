@@ -13,10 +13,12 @@ The Smith Parasite - An Unknown Parasitic Disease
 
 ---
 
-Prepro: 
-
-create columns:
-  BMI, Gender, Age, density per region
+Prepro:<br>
+create/add columns:
+- BMI
+- Gender
+- Age
+- density per region
   
 cleaning:
   region --> city.lower()
