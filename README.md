@@ -19,8 +19,8 @@ create/add columns:
 - Gender
 - Age
 - density per region
-  
-cleaning:
-  region --> city.lower()
-  handle Birth_Year (1870 --> 1970?)
-  fill Education with k-nearest
+<br>
+cleaning:<br>
+- region --> city.lower()
+- handle Birth_Year (1870 --> 1970?)
+- fill Education with k-nearest
