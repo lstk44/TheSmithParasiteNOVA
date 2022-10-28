@@ -14,7 +14,7 @@ The Smith Parasite - An Unknown Parasitic Disease
 ---
 
 Prepro:
-<br>
+<\br>
 create/add columns:
 - BMI
 - Gender
@@ -22,7 +22,7 @@ create/add columns:
 - density per region
 <br>
 cleaning:
-<br>
+<\br>
 - region --> city.lower()
 - handle Birth_Year (1870 --> 1970?)
 - fill Education with k-nearest
