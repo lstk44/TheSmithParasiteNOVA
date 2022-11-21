@@ -2,6 +2,7 @@
 
 The Smith Parasite - An Unknown Parasitic Disease
 
+https://docs.google.com/document/d/1B9G4_dPo27yiWAbwF2XnoUl3-utxqPHPTKL6SpnlhHM/edit#
 
 | Topic                  | Deadline    |
 | ------------------     | ----------- |
